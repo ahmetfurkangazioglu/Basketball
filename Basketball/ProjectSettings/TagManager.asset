@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Border
   - BallPoint
+  - Feature
   layers:
   - Default
   - TransparentFX
